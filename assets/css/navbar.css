@@ -1,0 +1,11 @@
+nav {
+    background-color: rgb(224, 111, 36);
+}
+
+nav a {
+    color: #fff!important;
+}
+
+nav a:hover {
+    opacity: 0.8;
+}

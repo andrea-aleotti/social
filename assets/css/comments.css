@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.comment-user {
+    font-weight: 600;
+    color: rgb(14, 14, 185);
+}
