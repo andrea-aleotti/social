@@ -21,7 +21,7 @@
         <div class="container-lg mx-auto my-5 px-3 row">
             <div class="col px-0">
                 <div id="form-container" class="h-100 d-flex flex-column justify-content-center">
-                    <form method="POST" action="assets/includes/login.inc.php" class="">
+                    <form method="POST" action="assets/includes/login.inc.php">
                         
                         <?php
                         if (isset($_GET["error"])) {
